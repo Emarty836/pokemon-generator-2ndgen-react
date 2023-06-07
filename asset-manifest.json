@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/pokemon-generator-2ndgen-react/static/css/main.776b377c.css",
-    "main.js": "/github.io/pokemon-generator-2ndgen-react/static/js/main.36bf35b2.js",
-    "index.html": "/github.io/pokemon-generator-2ndgen-react/index.html",
-    "main.776b377c.css.map": "/github.io/pokemon-generator-2ndgen-react/static/css/main.776b377c.css.map",
-    "main.36bf35b2.js.map": "/github.io/pokemon-generator-2ndgen-react/static/js/main.36bf35b2.js.map"
+    "main.css": "/pokemon-generator-2ndgen-react/static/css/main.776b377c.css",
+    "main.js": "/pokemon-generator-2ndgen-react/static/js/main.36bf35b2.js",
+    "index.html": "/pokemon-generator-2ndgen-react/index.html",
+    "main.776b377c.css.map": "/pokemon-generator-2ndgen-react/static/css/main.776b377c.css.map",
+    "main.36bf35b2.js.map": "/pokemon-generator-2ndgen-react/static/js/main.36bf35b2.js.map"
   },
   "entrypoints": [
     "static/css/main.776b377c.css",
